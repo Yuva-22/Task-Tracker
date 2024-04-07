@@ -1,0 +1,75 @@
+.login
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginbox
+{
+    margin-top: 100px;
+    margin-bottom:380px;
+    background-color: white;
+    padding:30px;
+    height:500px;
+    width:500px;
+    border-radius:50px;
+}
+
+.aubtn
+{
+    background-color: white;
+    border:none;
+    border-radius:20px;
+    width:40%;
+    margin-right:5%;
+    margin-left:5%;
+    margin-bottom:40px;
+    padding:10px;
+}
+
+.aubtn:hover{
+    background-color: rgb(222, 222, 222);
+}
+
+label,input{
+    margin-bottom: 30px;
+}
+
+input
+{ 
+    width:100%;
+    margin-top:15px;
+    /* margin-left:20px; */
+    padding:10px;
+    border-radius: 20px;
+}
+
+.regspan
+{
+    color:red;
+    text-decoration: none;
+}
+
+.signinbtn
+{
+    margin-left:40%;
+    background-color: white;
+    border:1px solid black;
+    padding:20px;
+    border-radius: 20px;
+}
+
+.signinbtn:hover{
+    background-color: rgb(222, 222, 222);
+}
+
+.accreg
+{
+    margin-left:20%;
+}
+
+.loginheading
+{
+    margin-left:30%;
+}

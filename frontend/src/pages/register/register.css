@@ -1,0 +1,41 @@
+.register
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.regbox
+{
+    margin-top: 10px;
+    background-color: white;
+    padding:30px;
+    height:660px;
+    width:500px;
+    border-radius: 50px;
+}
+
+.reghead
+{
+    margin-left:80px;
+}
+
+input
+{
+    width:95%;
+}
+
+.radioinput
+{
+    width:10%;
+}
+
+.deptinput
+{
+    width:100%;
+    padding:10px;
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+}

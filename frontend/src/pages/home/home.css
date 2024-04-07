@@ -1,0 +1,37 @@
+.home
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homebox
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-top:20%;
+    padding:40px;
+    border-radius: 15px;
+}
+
+.home-heading
+{
+    font-weight: 600;
+}
+
+.login-link
+{
+    text-decoration: none;
+    color:black;
+    font-weight: 400;
+    padding:7px 10px;
+    border-radius: 5px;
+    border:1px solid black;
+}
+
+.login-link:hover{
+  background-color: rgb(222, 222, 222);
+}
